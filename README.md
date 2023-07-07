@@ -48,6 +48,4 @@
 > <div align="center"><h3> 🌱 My stats 🌱</h3> </div>
  ------------------------- 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grimeeee&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=grimeeee&show_icons=true">
-</div>
+
